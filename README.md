@@ -1,3 +1,15 @@
+# Group members
+
+| No. | Name              | ID (ETS)  |
+|-----|-------------------|-----------|
+| 1   | Natannan Zeleke   | 0981/13   |
+| 2   | Nathnael Desalegn | 0993/13   |
+| 3   | Nathan Samson     | 0988/13   |
+| 4   | Medina Nesro      | 0811/13   |
+| 5   | Merbebt Solomon   | 0834/13   |
+| 6   | Melkamu Tesema    | 0831/13   |
+
+
 # Project Screenshots
 
 ## Images
